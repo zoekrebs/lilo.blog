@@ -1,10 +1,10 @@
 +++
-title = "About me"
+title = "Diese Seite gehört Zoë"
 draft = false
-description = ""
-image = ""
+image = "sonne-meer.jpg"
+description = "Allgemeine Texte"
 +++
-![](/img/default-author.jpg)
+![](sonne-meer.jpg)
 
 ## My Name
 
