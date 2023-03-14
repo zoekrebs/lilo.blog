@@ -2,7 +2,7 @@
 title = "Diese Seite gehört Zoë"
 draft = false
 image = "sonne-meer.jpg"
-description = "Allgemeine Texte"
+description = "Allgemeine Texte\n"
 +++
 ![](sonne-meer.jpg)
 
