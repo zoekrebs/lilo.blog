@@ -3,7 +3,7 @@ title = "LSD - die Lösung oder das Problem? "
 date = "2023-04-03"
 draft = false
 pinned = false
-image = ""
+image = "menschen.jpg"
 description = "Sollen und werden psychische Krankheiten vermehrt mit LSD und behandelt werden?"
 +++
 «Wuchtig, irritierend und ambivalent». Das sind die Worte, welche Anuschka Roshani zuerst mit ihrer LSD-Erfahrung assoziiert. Sie ist zum Glück nicht von einer psychischen Krankheit betroffen. Doch die Zahl der Krankeitsbetroffenen in unserer Gesellschaft nimmt zu und nicht immer verhelfen herkömmliche Behandlungen mit Antidepressiva oder ähnlichen Medikamenten zur Besserung. Bei der Suche nach einem alternativen Heilmittel stösst man auf LSD. Um die Wirkung zu dokumentieren und zu kennen, sind Studien sind somit sehr wichtig und werden auch immer häufiger. Roshani ist eine Journalistin aus Zürich, welche an einer ebensolchen Studie zu LSD teilnahm und dort selbst LSD konsumierte. Mithilfe ihrer Erfahrungen und ihrem Wissen schrieb sie ihr Buch «Gleissen», aus welchem wir viel Informatives für diese Reportage entnehmen konnten.
