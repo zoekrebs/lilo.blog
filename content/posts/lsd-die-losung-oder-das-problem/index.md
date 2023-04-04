@@ -1,6 +1,6 @@
 +++
 title = "LSD - die Lösung oder das Problem? "
-date = "2023-04-03"
+date = "2023-04-04"
 draft = false
 pinned = false
 image = "menschen.jpg"
