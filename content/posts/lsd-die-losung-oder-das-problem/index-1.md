@@ -4,11 +4,11 @@ date = "2023-04-03"
 draft = false
 pinned = false
 image = "menschen.jpg"
-description = "Sollen und werden psychische Krankheiten vermehrt mit LSD und behandelt werden?"
+description = "Werden psychische Krankheiten vermehrt mit LSD und behandelt werden?"
 +++
 «Wuchtig, irritierend und ambivalent». Das sind die Worte, welche Anuschka Roshani zuerst mit ihrer LSD-Erfahrung assoziiert. Sie ist zum Glück nicht von einer psychischen Krankheit betroffen. Doch die Zahl der Krankeitsbetroffenen in unserer Gesellschaft nimmt zu und nicht immer verhelfen herkömmliche Behandlungen mit Antidepressiva oder ähnlichen Medikamenten zur Besserung. Bei der Suche nach einem alternativen Heilmittel stösst man auf LSD. Um die Wirkung zu dokumentieren und zu kennen, sind Studien sind somit sehr wichtig und werden auch immer häufiger. Roshani ist eine Journalistin aus Zürich, welche an einer ebensolchen Studie zu LSD teilnahm und dort selbst LSD konsumierte. Mithilfe ihrer Erfahrungen und ihrem Wissen schrieb sie ihr Buch «Gleissen», aus welchem wir viel Informatives für diese Reportage entnehmen konnten.
 
-![](bild1-buch.jpg "Roshanis Buch \\"Gleissen\\"")
+![](bild1-buch.jpg "Roshanis Buch \\\"Gleissen\\\"")
 
 ### Die Forschung kommt in Schwung
 
@@ -28,13 +28,15 @@ LSD wurde erstmals 1938 von Albert Hofmann synthetisiert, in der Hoffnung, eine 
 Wegen des Potentials in der Psychotherapie war LSD lange noch als Medikament erhältlich und gleichzeitig verbreitete sich die Droge in der Kunst- und Hippie-Szene. Künstler:innen nahmen LSD, um inspirierter zu sein und Hippies sahen es als eine bewusstseinserweiternde Substanz. Durch diese Erweiterung des Bewusstseins fingen die Menschen an, Glaubenssysteme und politische Systeme zu hinterfragen. Viele entwickelten daraus eine pazifistische Haltung. 
 Von 1955 bis 1975 herrschte der Vietnamkrieg und eine Menge amerikanische Soldaten weigerten sich zu kämpfen, wegen der friedlichen Weltanschauung, die sie dank LSD hatten. Doch was nützten pazifistische Soldaten im Krieg? Da US-Präsident Richard Nixon nicht wollte, dass man selbst frei denkt, rief er ein Verbot gegen LSD aus und bezeichnete es als «Satans Küche». 1971 verbaten die Vereinigten Nationen LSD auf der ganzen Welt. Noch aus dieser Zeit stammt das Weltbild, welches die meisten Menschen heute von psychoaktiven Substanzen haben.
 
+{{<box>}}
 
+#### AHA-Kasten
 
-> #### AHA-Kasten
->
->  LSD ist eine psychoaktive Substanz, was bedeutet, dass durch den Konsum Glückshormone wie Serotonin oder Dopamin ausgeschüttet werden: Man fällt in einen Rauschzustand. Nebst LSD gibt es noch weitere stark halluzinogene Substanzen wie Psylocibin (Magic Mushrooms), Meskalin (2CB), Ecstasy, Ayahuasca und DMT. LSD ist eine synthetisierte Droge, welche offiziell Lysergsäurediethylamid heisst. Reines LSD findet man in der Natur nicht. Bloss der Ursprungsstoff ist natürlich, das sogenannte Mutterkornalkaloid. Dieser muss im Labor synthetisiert werden, um LSD zu erhalten.
->
-> ![](bild2.jpg "Mutterkorn an einer Ähre  (Foto: fotocommunity.com)")
+ LSD ist eine psychoaktive Substanz, was bedeutet, dass durch den Konsum Glückshormone wie Serotonin oder Dopamin ausgeschüttet werden: Man fällt in einen Rauschzustand. Nebst LSD gibt es noch weitere stark halluzinogene Substanzen wie Psylocibin (Magic Mushrooms), Meskalin (2CB), Ecstasy, Ayahuasca und DMT. LSD ist eine synthetisierte Droge, welche offiziell Lysergsäurediethylamid heisst. Reines LSD findet man in der Natur nicht. Bloss der Ursprungsstoff ist natürlich, das sogenannte Mutterkornalkaloid. Dieser muss im Labor synthetisiert werden, um LSD zu erhalten.
+
+![](bild2.jpg "Mutterkorn an einer Ähre  (Foto: fotocommunity.com)")
+
+{{</box>}}
 
 ### Und was jetzt?
 
