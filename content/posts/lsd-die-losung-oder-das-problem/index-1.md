@@ -8,13 +8,13 @@ description = "Werden psychische Krankheiten vermehrt mit LSD und behandelt werd
 +++
 «Wuchtig, irritierend und ambivalent». Das sind die Worte, welche Anuschka Roshani zuerst mit ihrer LSD-Erfahrung assoziiert. Sie ist zum Glück nicht von einer psychischen Krankheit betroffen. Doch die Zahl der Krankeitsbetroffenen in unserer Gesellschaft nimmt zu und nicht immer verhelfen herkömmliche Behandlungen mit Antidepressiva oder ähnlichen Medikamenten zur Besserung. Bei der Suche nach einem alternativen Heilmittel stösst man auf LSD. Um die Wirkung zu dokumentieren und zu kennen, sind Studien sind somit sehr wichtig und werden auch immer häufiger. Roshani ist eine Journalistin aus Zürich, welche an einer ebensolchen Studie zu LSD teilnahm und dort selbst LSD konsumierte. Mithilfe ihrer Erfahrungen und ihrem Wissen schrieb sie ihr Buch «Gleissen», aus welchem wir viel Informatives für diese Reportage entnehmen konnten.
 
-![](bild1-buch.jpg "Roshanis Buch \\\"Gleissen\\\"")
+![](bild1-buch.jpg "Roshanis Buch \\\\"Gleissen\\\\"")
 
 ### Die Forschung kommt in Schwung
 
 Bei Angststörungen, Depressionen und Suchterkrankungen gibt es laut Prof. Matthias Liechti die positivsten Auswertungsdaten bei der Behandlung mit LSD. Matthias Liechti ist Arzneientwickler und Leiter der Forschungsgruppe Psychopharmakologie am Departement Biomedizin des Universitätsspitals. Ein Einsatz von LSD bei Schizophrenie, einer bipolaren Störung und Borderline als kontraproduktiv, schreibt uns Liechti auf unsere Fragen, welche wir ihm per Mail stellen konnten. Nur wenige dürfen weltweit Studien zu LSD und anderen psychoaktiven Substanzen durchführen. Die Schweiz ist vergleichsweise offen: Daher kann Matthias Liechti hier gut arbeiten und seine Studien durchführen. Er war es auch, der Anuschka Roshani als Leiter einer Studie zu LSD am Universitätsspital Basel ermöglichte, LSD zu konsumieren. Die Forschung läuft an, besonders auch in der Schweiz. Die Bremse solcher Studien seien, dass eine grosse Menge Geld und Knowhow benötigt wird, wie Liechti berichtet. Dieser leitete schon um die 10 Studien und auch momentan ist eine neue Studie am Laufen.
 
-![](bild2-roshani.jpg "Anuschka Roshani (Foto: zuerich-liest.ch)")
+![](bild2-roshani.jpg "Anuschka Roshani (zuerich-liest.ch)")
 
 Wir trafen die Schweizer Journalistin und Verhaltensbiologin Anuschka Roshani in Zürich zu einem Interview, wo sie uns gleich zu einem Tee einlud. Unser Gespräch mit ihr war sehr spannend und ergebnisreich.
  «Ich hatte nicht viele Visuals, die meisten sind mir eh entfallen. Aber was mir blieb, ich nahm alles als Emotion war. So erfühlte und sah ich das erste Mal Klänge.» Was man während des Trips erfährt, ist sehr individuell, aber dass man alles als Emotion wahrnimmt, wurde von den meisten Konsumenten berichtet. Nun, wie soll das einem Patienten mit Depressionen helfen? Dazu äusserte sich Anuschka in unserem Interview: «Bei einer Depression schaut man wie nur durch einen Tunnel, wo alles nur düster und dunkel aussieht.» Weiterhin erklärte uns Roshani, wie das helfen soll. Im LSD-Rausch werden durch all diese intensiven Eindrücke und Emotionen der Mantel des Tunnels gesprengt und es erlaubt einen Blick über den Tellerrand des eigenen Lebens hinaus. Ob dies eine chemische Reaktion im Gehirn ist, wird derzeit noch untersucht. Trotz des Unwissens aber zeigen die Ergebnisse der Studienversuche eine sehr hohe Erfolgsrate. Allem Anschein nach ist LSD ein Wundermittel für die Heilung von gewissen psychischen Erkrankungen, oder um eine neue Perspektive auf das eigene Leben zu gewinnen. Aber was spricht gegen den Konsum, warum sollten nicht alle einmal LSD nehmen? Nebst den vielen positiven Effekten, die LSD mit sich bringt, gibt es auch Gefahren, die man nicht unterschätzen darf. Eine unkontrollierte Einnahme ohne professionelle Begleitung kann zu einer schweren Psychose oder Persönlichkeitsstörungen führen.
@@ -34,7 +34,7 @@ Von 1955 bis 1975 herrschte der Vietnamkrieg und eine Menge amerikanische Soldat
 
  LSD ist eine psychoaktive Substanz, was bedeutet, dass durch den Konsum Glückshormone wie Serotonin oder Dopamin ausgeschüttet werden: Man fällt in einen Rauschzustand. Nebst LSD gibt es noch weitere stark halluzinogene Substanzen wie Psylocibin (Magic Mushrooms), Meskalin (2CB), Ecstasy, Ayahuasca und DMT. LSD ist eine synthetisierte Droge, welche offiziell Lysergsäurediethylamid heisst. Reines LSD findet man in der Natur nicht. Bloss der Ursprungsstoff ist natürlich, das sogenannte Mutterkornalkaloid. Dieser muss im Labor synthetisiert werden, um LSD zu erhalten.
 
-![](bild2.jpg "Mutterkorn an einer Ähre  (Foto: fotocommunity.com)")
+![](bild2.jpg "Mutterkorn an einer Ähre  (fotocommunity.com)")
 
 {{</box>}}
 
